@@ -2,6 +2,8 @@
 
 This Terraform configuration sets up an AWS VPC with two subnets one public subnet with an Internet Gateway and route table and one private subnet with a NAT Gateway. 
 
+This makes it perfect for those dev/staging environments you want to easily deploy and destroy fast for testing etc. 
+
 ---
 
 ## 📌 Prerequisites
