@@ -19,7 +19,7 @@ Ensure you have the following installed and configured:
 ### 1️⃣ Clone the Repository
 
 ```sh
-git clone [https://github.com/Zack1667/Cloudwatch-Root-Alarm-Template.git](https://github.com/Zack1667/AWS-create-vpc-template.git)
+git clone https://github.com/Zack1667/Cloudwatch-Root-Alarm-Template.git
 cd Cloudwatch-root-alarm
 ```
 
